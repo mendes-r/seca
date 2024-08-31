@@ -1,3 +1,5 @@
+[< back](../README.md)
+
 # Web Application Security
 
 ## Table of Content
@@ -10,8 +12,9 @@
             - [Accidental Archives](./01-exploitation/01-recon/a-subdomains/iii-accidental-archives.md)
             - [Social Media Snapshots](./01-exploitation/01-recon/a-subdomains/iv-social-media-snapshots.md)
             - [Zone Transfer Attacks](./01-exploitation/01-recon/a-subdomains/v-zone-transfer-attacks.md)
-            - [Brute Forcing](./01-exploitation/01-recon/a-subdomains/vi-brute-forcing.md)
-        - Endpoints
+            - [Brute Forcing and Dictionary Attacks](./01-exploitation/01-recon/a-subdomains/vi-brute-forcing.md)
+        
+        - API
 
 - Countermeasures
 
