@@ -1,4 +1,4 @@
-[< table of content](../../../TABLE_OF_CONTENT.md)
+[< back](../../TABLE_OF_CONTENT.md)
 
 # Accidental Archives
 

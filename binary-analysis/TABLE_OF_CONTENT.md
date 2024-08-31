@@ -1,3 +1,3 @@
 [< back](../README.md)
 
-# Binary Analysis
+# [Binary Analysis](https://nostarch.com/binaryanalysis)
