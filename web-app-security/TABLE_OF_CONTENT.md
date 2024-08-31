@@ -14,6 +14,9 @@
         - [Brute Forcing and Dictionary Attacks](./01-recon/a-subdomains/vi-brute-forcing.md)
     
     - API Analysis
+        - [Endpoint Discovery](./01-recon/b-api-analysis/i-endpoint-discovery.md)
+        - [Authentication Mechanisms](./01-recon/b-api-analysis/ii-authentication.md)
+        - [Payload Shape](./01-recon/b-api-analysis/iii-payload-shapes.md)
 
 - Defense
 
