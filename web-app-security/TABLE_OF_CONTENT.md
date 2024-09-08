@@ -17,6 +17,10 @@
         - [Endpoint Discovery](./01-recon/b-api-analysis/i-endpoint-discovery.md)
         - [Authentication Mechanisms](./01-recon/b-api-analysis/ii-authentication.md)
         - [Payload Shape](./01-recon/b-api-analysis/iii-payload-shapes.md)
+    
+    - Third Party Dependencies
+        - [Client-side Frameworks](./01-recon/c-third-party-dependencies/i-client-side-frameworks.md)
+        - [Server-side Frameworks](./01-recon/c-third-party-dependencies/ii-server-side-frameworks.md) 
 
 - Defense
 
