@@ -13,7 +13,7 @@ Or even more information:
 `Server: Microsoft-IIS/4.5`
 `X-AspNet-Version: 4.0.25`
 
-## Default Error Messafes and 404 pages
+## Default Error Messages and 404 pages
 
 Some frameworks are open-source, meaning that you have access to their git history. This helps to determine the version used via _fingerprinting_.
 
@@ -26,4 +26,12 @@ git log | grep 404
 ```
 
 ## Database Detection
+
+Primary key scanning:
+
+- If we can determine how the default primary keys are generated for a few major databases, unless the default method has been overwritten, you will likely be able to determine the database type.
+
+- Look at the network payload or metadata to identify primary keys that are being sent but not displayed.
+
+- Other techniques requires triggering error messages.
 

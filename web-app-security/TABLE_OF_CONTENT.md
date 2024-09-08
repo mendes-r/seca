@@ -22,6 +22,9 @@
         - [Client-side Frameworks](./01-recon/c-third-party-dependencies/i-client-side-frameworks.md)
         - [Server-side Frameworks](./01-recon/c-third-party-dependencies/ii-server-side-frameworks.md) 
 
+    - Architecture Weak Points
+        - [Weak Points](./01-recon/d-architecture-weak-points/i-architecture-weak-points.md)
+
 - Defense
 
 - Offense
