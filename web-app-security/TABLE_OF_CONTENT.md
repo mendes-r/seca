@@ -5,7 +5,7 @@
 ## Table of Content
 
 - Recon
-    - [Organization](./00-organization/i-organization)
+    - [Organization](./00-organization/i-organization.md)
     - Subdomains
         - [Network Analysis Tools](./01-recon/a-subdomains/i-network-analysis-tools.md)
         - [Search Engines Cache](./01-recon/a-subdomains/ii-search-engine-cache.md)

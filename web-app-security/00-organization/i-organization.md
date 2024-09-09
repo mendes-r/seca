@@ -1,4 +1,4 @@
-[< back](../../TABLE_OF_CONTENT.md)
+[< back](../TABLE_OF_CONTENT.md)
 
 # Organization
 
