@@ -2,11 +2,11 @@
 
 # Accidental Archives
 
-Search for previous public information that can point to now privite subdomains. Usually found in hyperlinks.
+Search for previous public information that can point to now private subdomains. Usually found in hyperlinks.
 
 [Archive.org](https://web.archive.org/)
 
-Get a copy of the old HTML and performa a search for the most [common URL schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml).
+Get a copy of the old HTML and perform a search for the most [common URL schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml).
 
 - _http://_
 - _https://_

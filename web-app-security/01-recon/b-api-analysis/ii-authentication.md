@@ -2,7 +2,7 @@
 
 # Authentication Mechanisms
 
-Analyse the structure of known request sent via browser.
+Analyze the structure of known request sent via browser.
 
 To understand the payload, start with common endpoints like: sign-up, sign-in, password reset...
 
@@ -12,7 +12,7 @@ To understand the payload, start with common endpoints like: sign-up, sign-in, p
 |----------------------------|---------------------------------------------------------------|
 | HTTP Basic Auth             | Username and password sent on each request, usually in base64 |
 | HTTP Digest Authentication | Hashed `username:realm:password` sent on each request         |
-| OAuth                      | "Bearer" token-based auth; allows sign-in with other websits  |
+| OAuth                      | "Bearer" token-based auth; allows sign-in with other websites  |
 
 
 Use the browser's _JavaScript_ interpreter to convert a base64 string into plain text:

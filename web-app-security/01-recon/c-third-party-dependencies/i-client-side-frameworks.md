@@ -44,7 +44,7 @@ const version = React.version;
 console.log(version);
 ```
 
-- Another options is to find script tags with type `text/jsx` refering React's special file format. This file contains JS, CSS and HTML for a individual component.
+- Another options is to find script tags with type `text/jsx` referring React's special file format. This file contains JS, CSS and HTML for a individual component.
 
 ### VueJS (Adobe, Gitlab)
 

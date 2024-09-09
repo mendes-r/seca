@@ -4,7 +4,7 @@
 
 Is it a RESTful or SOAP API?
 
-Use browser's network tools or Burp to analyse the requests
+Use browser's network tools or Burp to analyze the requests
 
 Look at the _cookie_ getting sent with the request, and look at the _headers_ of each request.
 
