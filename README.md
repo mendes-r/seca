@@ -1,4 +1,4 @@
-# Security Analysis (SecA)
+# Security Analysis (SecA) :sweat_drops:
 
 Notes on Security Analysis.
 
